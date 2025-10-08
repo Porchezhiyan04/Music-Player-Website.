@@ -6,3 +6,4 @@ A custom web-based music player with play, pause, next, and previous controls.
 - Next and previous song functionality  
 - Volume control and responsive layout  
 - Built with pure JavaScript and HTML5 audio  
+  
